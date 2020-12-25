@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch PoolPuzzleOne",
+            "request": "launch",
+            "mainClass": "PoolPuzzleOne",
+            "projectName": "HeadFirstJava_380b4b34"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - PoolPuzzleOne",
             "request": "launch",
             "mainClass": "PoolPuzzleOne",
