@@ -19,7 +19,7 @@ class PoolPuzzleOne {
             }
             System.out.println("");
             x=x+1;
-            //test5
+            //test6
         }
     }
 }
