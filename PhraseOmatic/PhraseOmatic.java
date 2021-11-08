@@ -19,4 +19,3 @@ public class PhraseOmatic{
     System.out.println("What we need is a " + phrase + ".");
   }
 }
- 
